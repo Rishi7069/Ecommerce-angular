@@ -1,6 +1,3 @@
-# Ecommerce Project Angular 17
-
-This project is a simple storefront built with Angular, showcasing various Angular concepts including standalone apps, modules, services, components, and routing. In this tutorial, users will learn how to perform basic CRUD (Create, Read, Update, Delete) operations on products.
 
 ## Table of Contents
 
@@ -35,7 +32,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/thecodedeck/angular-cc-1-client.git
+  https://github.com/Rishi7069/Ecommerce-angular.git
    ```
 
 2. Install dependencies:
